@@ -78,21 +78,35 @@ You have 10 minutes to complete the exam.
 
 Question 1:
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 1
+
 Question 2:
+
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Question 3:
+
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Question 4:
+
 1. Option 1
 2. Option 2
 Your answer (1 or 2): 1
+
 Question 5:
+
 1. Option 1
 2. Option 2
 Your answer (1 or 2): 1
