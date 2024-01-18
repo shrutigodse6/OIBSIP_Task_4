@@ -55,16 +55,27 @@ Overall, the code represents a basic online examination system with login, exam-
 OUTPUT:-
 
 PS C:\Users\Shruti\Desktop\c&c++> javac OnlineExam.java
+
 PS C:\Users\Shruti\Desktop\c&c++> java OnlineExam
+
 Enter your username and password
+
 ShrutiGodse
+
 shruti123
+
 Sucessfully You are registered!  :)
+
 Log in to give the Exam 
+
 Username: ShrutiGodse
+
 Password: shruti123
+
 Login successful Best of Luck Dear
+
 You have 10 minutes to complete the exam.
+
 Question 1:
 1. Option 1
 2. Option 2
