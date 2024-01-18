@@ -102,41 +102,72 @@ Your answer (1 or 2): 2
 Question 4:
 
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 1
 
 Question 5:
 
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 1
+
 Question 6:
+
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Question 7:
+
 1. Option 1
+
 2. Option 2
+   
 Your answer (1 or 2): 1
+
 Question 8:
+
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Question 9:
+
 1. Option 1
+   
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Question 10:
+
 1. Option 1
+ 
 2. Option 2
+   
 Your answer (1 or 2): 2
+
 Would you like to submit?
+
 1:Yes
+
 2:NO
+
 1
 Your score is 1 out of 10.
+
 Best of luck :)
+
 Logout successful.
+
 PS C:\Users\Shruti\Desktop\c&c++>
 
 
