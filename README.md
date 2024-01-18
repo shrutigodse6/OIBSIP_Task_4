@@ -162,6 +162,7 @@ Would you like to submit?
 2:NO
 
 1
+
 Your score is 1 out of 10.
 
 Best of luck :)
